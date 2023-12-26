@@ -1,4 +1,3 @@
-# Embedded-System-Roadmap
 # Embedded Systems Engineering Roadmap
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/m3y54m/Embedded-Engineering-Roadmap?style=plastic)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/stargazers)
